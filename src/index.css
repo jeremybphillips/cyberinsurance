@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@media print {
+  @page {
+    size: 8.5in 11in;
+    margin: 50px 70px;
+  }
+}
