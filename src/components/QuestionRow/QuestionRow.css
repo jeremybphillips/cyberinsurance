@@ -20,6 +20,6 @@
     }
 
     & .checkedAnswer {
-        /* display: none; */
+        display: none;
     }
 }
